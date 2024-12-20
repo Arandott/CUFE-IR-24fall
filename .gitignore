@@ -2,3 +2,8 @@
 *.npy
 *.html
 *.xlsx
+
+results/
+data/
+embeddings/
+imgs/
